@@ -1,0 +1,4 @@
+secret/
+cp-node-react-project/node_modules/
+cp-realm-react-project/node_modules/
+*.secret
